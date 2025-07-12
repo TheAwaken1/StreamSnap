@@ -3,7 +3,7 @@
 # Copy this content to requirements.txt and run: pip install -r requirements.txt
 
 # Core Application Framework
-gradio>=5.35.0
+# gradio>=5.35.0
 youtube_dl
 ultralytics
 
