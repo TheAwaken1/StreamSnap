@@ -1,5 +1,13 @@
 # StreamSnap
 
+<p align="center">
+  <img src="icon.png" alt="AIraoke Logo" width="50%"/>
+</p>
+
+<a href="https://buymeacoffee.com/cmpcreativn" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60">
+</a>
+
 ![StreamSnap Banner](https://via.placeholder.com/800x200.png?text=StreamSnap+Banner) <!-- Replace with actual banner image if available -->
 
 **StreamSnap** is a powerful, AI-powered desktop application for downloading, transcribing, and analyzing YouTube videos and audio. Built with Python and leveraging cutting-edge libraries like Whisper, YOLO11, and Gradio, StreamSnap provides an intuitive interface for content creators, researchers, and enthusiasts to process media with advanced features like real-time object detection, automatic chapter generation, and interactive transcripts.
