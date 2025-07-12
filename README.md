@@ -10,7 +10,7 @@
 
 ![StreamSnap Banner](https://via.placeholder.com/800x200.png?text=StreamSnap+Banner) <!-- Replace with actual banner image if available -->
 
-**StreamSnap** is a powerful, AI-powered desktop application for downloading, transcribing, and analyzing YouTube videos and audio. Built with Python and leveraging cutting-edge libraries like Whisper, YOLO11, and Gradio, StreamSnap provides an intuitive interface for content creators, researchers, and enthusiasts to process media with advanced features like real-time object detection, automatic chapter generation, and interactive transcripts.
+**StreamSnap** is a powerful, AI-powered Gradio application for downloading, transcribing, and analyzing YouTube videos and audio. Built with Python and leveraging cutting-edge libraries like Whisper, YOLO11, and Gradio, StreamSnap provides an intuitive interface for content creators, researchers, and enthusiasts to process media with advanced features like real-time object detection, automatic chapter generation, and interactive transcripts.
 
 ## Features
 
