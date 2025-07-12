@@ -67,8 +67,13 @@
      ```bash
      venv\Scripts\activate
      ```
-
-3. **Install Dependencies**:
+   - **Install Gradio**:
+    Run:
+    ```bash
+    pip install gradio==5.35.0
+     ```
+   
+4. **Install Dependencies**:
    Run:
    ```bash
    pip install -r requirements.txt
@@ -82,7 +87,7 @@
    brew install ffmpeg
    ```
 
-4. **Verify YOLO11 Installation** (optional, for Vision Lab):
+5. **Verify YOLO11 Installation** (optional, for Vision Lab):
    If using the Vision Lab, ensure `ultralytics` is installed correctly:
    ```bash
    pip install ultralytics
