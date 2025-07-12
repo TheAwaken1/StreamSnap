@@ -1,0 +1,9 @@
+.gradio/
+clips/
+downloads/
+venv/
+5.35.0
+download_history.json
+object_detections.db
+yolo11n.pt
+yolo11x.pt
